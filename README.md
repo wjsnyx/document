@@ -1,6 +1,7 @@
 # 一些常用的网址和命令
 ### git
 github中README操作：https://blog.csdn.net/kaitiren/article/details/38513715<br>
+github中忽略上传内容：https://github.com/github/gitignore<br>
 
 git创建文件夹: mkdir+文件夹名称<br>
 git创建文件：touch+文件名<br>
