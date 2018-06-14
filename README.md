@@ -12,3 +12,7 @@ springboot打印sql配置:`logging.level.com.wjsnyx.dao=DEBUG`(com.wjsnyx.dao为
 		springboot中jsp页面修改后自动生效配置:`server.jsp-servlet.init-parameters.development=true`
 ### bsgrid
 bsgrid首页地址:thebestofyouth.com/bsgrid
+
+### java关键字
+
+#### 
