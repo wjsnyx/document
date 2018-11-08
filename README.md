@@ -9,7 +9,8 @@ git编辑文件: vi+文件名(默认进入命令模式，按i键进入编辑模�
 
 ### springboot
 springboot打印sql配置:`logging.level.com.wjsnyx.dao=DEBUG`(com.wjsnyx.dao为包路径)<br>
-		springboot中jsp页面修改后自动生效配置:`server.jsp-servlet.init-parameters.development=true`
+		springboot中jsp页面修改后自动生效配置:`server.jsp-servlet.init-parameters.development=true`<br>
+	springbootDoc文档：https://docs.spring.io/spring-boot/docs/
 ### bsgrid
 bsgrid首页地址:thebestofyouth.com/bsgrid
 
